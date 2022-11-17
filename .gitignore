@@ -9,6 +9,6 @@ VistaApp/npm-debug.*
 *.mobileprovision
 *.orig.*
 VistaApp/web-build/
-
+VistaApp/.expo
 # macOS
 .DS_Store

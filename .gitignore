@@ -1,0 +1,14 @@
+VistaApp/node_modules/
+VistaApp/expo/
+VistaApp/dist/
+VistaApp/npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+VistaApp/web-build/
+
+# macOS
+.DS_Store
